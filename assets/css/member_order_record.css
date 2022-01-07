@@ -1,0 +1,26 @@
+.recordlist{
+    width: 90%;
+    margin: 0% 5% 5% 5%;
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgba(151, 231, 245, 0.616);
+    height: 60%;
+    border: 10px double whitesmoke;
+}
+.recordlist table{
+    width: 100%;
+    border-collapse: collapse;
+}
+h1{
+    font-size: 40px;
+    margin: 20px 10px 20px 10px ;
+    text-align: center;
+    color: rgb(0, 110, 255);
+}
+td{
+    padding: 10px;
+}
+th{
+    padding: 5px;
+}
